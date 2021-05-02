@@ -1,0 +1,68 @@
+Last login: Sat May  1 12:30:43 on ttys000
+(learn-env) Seetas-MacBook-Pro:~ seetarajpara$ pwd
+/Users/seetarajpara
+(learn-env) Seetas-MacBook-Pro:~ seetarajpara$ cd Desktop/
+(learn-env) Seetas-MacBook-Pro:Desktop seetarajpara$ ls
+19Bayes.pdf
+BI
+CAM4-7-433.pdf
+CS
+Command Line Tools for Genomic Data Science.docx
+CommandLineTools_Mod1_Exam
+CommandLineTools_Mod2_Exam
+CommandLineTools_Mod3_Exam
+CommandLineTools_Mod4_Exam
+Grad School
+Important Docs
+Intro to Genetics and Evolution.docx
+Job Stuff
+Mod3 project
+PIIS2211124718315420.pdf
+Papers
+Print Preview.pdf
+Random Forests.docx
+Screen Shot 2021-04-27 at 7.20.05 PM.png
+Statistics for Genomic Data Science.docx
+cheatsheets-1.png
+cheatsheets-2.png
+handout-beginner.png
+handout-intermediate.png
+handout-tips.png
+methylation
+nrg2842.pdf
+rosalind_dna.txt
+s41416-018-0019-8.pdf
+(learn-env) Seetas-MacBook-Pro:Desktop seetarajpara$ cd CommandLineTools_Mod4_Exam/
+(learn-env) Seetas-MacBook-Pro:CommandLineTools_Mod4_Exam seetarajpara$ ls
+gencommand_proj4	gencommand_proj4.tar.gz
+(learn-env) Seetas-MacBook-Pro:CommandLineTools_Mod4_Exam seetarajpara$ cd gencommand_proj4
+(learn-env) Seetas-MacBook-Pro:gencommand_proj4 seetarajpara$ ls
+Day16.fastq	athal		athal_genes.gtf	commands.tar.gz
+Day8.fastq	athal_chr.fa	commands	commands_org
+(learn-env) Seetas-MacBook-Pro:gencommand_proj4 seetarajpara$ cd commands
+(learn-env) Seetas-MacBook-Pro:commands seetarajpara$ ls
+com.tophat
+(learn-env) Seetas-MacBook-Pro:commands seetarajpara$ vi commands/com.cufflinks
+
+THDIR=/User/seetarajpara/Desktop/CommandLineTools_Mod4_Exam/gencommand_proj4/Tophat/
+WORKDIR=/User/seetarajpara/Desktop/CommandLineTools_Mod4_Exam/gencommand_proj4/Tophat/Cufflinks
+
+mkdir -p $WORKDIR/Day8
+cd $WORKDIR/Day8; cufflinks -p 8 $THDIR/Day8/accepted_hits.bam
+
+mkdir -p $WORKDIR/Day16
+cd $WORKDIR/Day16; cufflinks -p 8 $THDIR/Day16/accepted_hits.bam
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+

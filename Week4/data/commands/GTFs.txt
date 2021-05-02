@@ -1,0 +1,2 @@
+/Users/seetarajpara/Desktop/CommandLineTools_Mod4_Exam/gencommand_proj4/Cufflinks/Day8/transcripts.gtf
+/Users/seetarajpara/Desktop/CommandLineTools_Mod4_Exam/gencommand_proj4/Cufflinks/Day16/transcripts.gtf

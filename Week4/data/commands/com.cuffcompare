@@ -1,0 +1,152 @@
+Last login: Sat May  1 12:39:02 on ttys000
+(learn-env) Seetas-MacBook-Pro:~ seetarajpara$ pwd
+/Users/seetarajpara
+(learn-env) Seetas-MacBook-Pro:~ seetarajpara$ cd Desktop/
+(learn-env) Seetas-MacBook-Pro:Desktop seetarajpara$ cd CommandLineTools_Mod4_Exam/
+(learn-env) Seetas-MacBook-Pro:CommandLineTools_Mod4_Exam seetarajpara$ ls
+gencommand_proj4	gencommand_proj4.tar.gz
+(learn-env) Seetas-MacBook-Pro:CommandLineTools_Mod4_Exam seetarajpara$ cd gencommand_proj4
+(learn-env) Seetas-MacBook-Pro:gencommand_proj4 seetarajpara$ ls
+Day16.fastq	athal		athal_genes.gtf	commands.tar.gz
+Day8.fastq	athal_chr.fa	commands	commands_org
+(learn-env) Seetas-MacBook-Pro:gencommand_proj4 seetarajpara$ cd commands
+(learn-env) Seetas-MacBook-Pro:commands seetarajpara$ ls
+com.cufflinks	com.tophat
+(learn-env) Seetas-MacBook-Pro:commands seetarajpara$ sh commands/com.tophat
+sh: commands/com.tophat: No such file or directory
+(learn-env) Seetas-MacBook-Pro:commands seetarajpara$ sh com.tophat
+seetarajpara  ttys000                   Sat May  1 12:40   still logged in
+seetarajpara  ttys000                   Sat May  1 12:39 - 12:39  (00:00)
+seetarajpara  ttys000                   Sat May  1 12:30 - 12:30  (00:00)
+seetarajpara  ttys000                   Sat May  1 12:26 - 12:26  (00:00)
+seetarajpara  ttys000                   Sat May  1 12:04 - 12:04  (00:00)
+seetarajpara  ttys000                   Sat May  1 09:46 - 09:46  (00:00)
+seetarajpara  ttys000                   Sat May  1 08:25 - 08:25  (00:00)
+seetarajpara  ttys000                   Thu Apr 29 06:06 - 06:06  (00:00)
+seetarajpara  ttys000                   Tue Apr 27 09:33 - 09:33  (00:00)
+seetarajpara  ttys000                   Sun Apr 25 20:52 - 20:52  (00:00)
+seetarajpara  ttys000                   Sun Apr 25 19:51 - 19:51  (00:00)
+seetarajpara  ttys000                   Sun Apr 25 14:14 - 14:14  (00:00)
+seetarajpara  ttys000                   Sat Apr 24 11:27 - 11:27  (00:00)
+seetarajpara  ttys000                   Sat Apr 17 09:41 - 09:41  (00:00)
+seetarajpara  ttys000                   Mon Apr 12 14:03 - 14:03  (00:00)
+seetarajpara  ttys000                   Sun Apr 11 07:42 - 07:42  (00:00)
+seetarajpara  ttys000                   Mon Apr  5 10:16 - 10:16  (00:00)
+seetarajpara  ttys000                   Sat Apr  3 08:55 - 08:55  (00:00)
+seetarajpara  ttys000                   Thu Apr  1 16:18 - 16:18  (00:00)
+seetarajpara  ttys000                   Tue Mar 30 18:16 - 18:16  (00:00)
+seetarajpara  ttys000                   Tue Mar 30 07:09 - 07:09  (00:00)
+seetarajpara  ttys000                   Sun Mar 28 13:58 - 13:58  (00:00)
+seetarajpara  ttys000                   Sun Mar 28 12:07 - 12:07  (00:00)
+seetarajpara  ttys000                   Sun Mar 28 11:12 - 11:12  (00:00)
+seetarajpara  ttys000                   Sun Mar 28 11:05 - 11:05  (00:00)
+seetarajpara  ttys000                   Sat Mar 27 09:33 - 09:33  (00:00)
+seetarajpara  ttys000                   Sat Mar 27 09:24 - 09:24  (00:00)
+seetarajpara  ttys000                   Fri Mar 26 11:14 - 11:14  (00:00)
+seetarajpara  ttys000                   Sun Mar 14 16:43 - 16:43  (00:00)
+seetarajpara  ttys000                   Fri Feb 26 08:28 - 08:28  (00:00)
+seetarajpara  ttys000                   Wed Jan 20 08:34 - 08:34  (00:00)
+seetarajpara  ttys000                   Wed Jan 20 08:32 - 08:32  (00:00)
+seetarajpara  ttys000                   Mon Jan 18 16:58 - 16:58  (00:00)
+seetarajpara  ttys000                   Sat Jan 16 11:32 - 11:32  (00:00)
+seetarajpara  ttys000                   Tue Jan 12 07:55 - 07:55  (00:00)
+seetarajpara  ttys000                   Sun Jan 10 12:11 - 12:11  (00:00)
+seetarajpara  ttys000                   Sat Jan  9 10:18 - 10:18  (00:00)
+seetarajpara  ttys000                   Tue Jan  5 10:37 - 10:37  (00:00)
+seetarajpara  ttys000                   Sat Jan  2 16:40 - 16:40  (00:00)
+seetarajpara  ttys000                   Sun Dec 20 19:36 - 19:36  (00:00)
+seetarajpara  ttys000                   Wed Dec  9 14:05 - 14:05  (00:00)
+seetarajpara  ttys000                   Tue Dec  8 10:14 - 10:14  (00:00)
+seetarajpara  ttys000                   Fri Dec  4 07:45 - 07:45  (00:00)
+seetarajpara  ttys000                   Fri Dec  4 07:45 - 07:45  (00:00)
+seetarajpara  ttys000                   Thu Dec  3 14:27 - 14:27  (00:00)
+seetarajpara  ttys000                   Thu Dec  3 14:27 - 14:27  (00:00)
+seetarajpara  ttys000                   Wed Dec  2 17:42 - 17:42  (00:00)
+seetarajpara  ttys000                   Wed Dec  2 17:39 - 17:39  (00:00)
+seetarajpara  ttys000                   Mon Nov  9 11:24 - 11:24  (00:00)
+seetarajpara  ttys000                   Sun Nov  1 09:02 - 09:02  (00:00)
+seetarajpara  ttys000                   Fri Oct 16 13:05 - 13:05  (00:00)
+seetarajpara  ttys000                   Mon Oct 12 09:06 - 09:06  (00:00)
+seetarajpara  ttys000                   Sun Sep 27 08:33 - 08:33  (00:00)
+seetarajpara  ttys000                   Thu Sep 24 07:09 - 07:09  (00:00)
+seetarajpara  ttys000                   Tue Sep 22 11:40 - 11:40  (00:00)
+seetarajpara  ttys000                   Sun Sep 13 14:34 - 14:34  (00:00)
+seetarajpara  ttys000                   Mon Sep  7 15:50 - 15:50  (00:00)
+seetarajpara  ttys000                   Mon Sep  7 13:04 - 13:04  (00:00)
+seetarajpara  ttys000                   Mon Sep  7 12:54 - 12:54  (00:00)
+seetarajpara  ttys000                   Fri Aug 28 08:56 - 08:56  (00:00)
+seetarajpara  ttys000                   Thu Jul 23 19:34 - 19:34  (00:00)
+seetarajpara  ttys000                   Wed Jul 15 06:35 - 06:35  (00:00)
+seetarajpara  ttys000                   Sun Jul 12 15:32 - 15:32  (00:00)
+seetarajpara  ttys000                   Wed Jul  8 10:34 - 10:34  (00:00)
+seetarajpara  ttys000                   Tue Jul  7 17:06 - 17:06  (00:00)
+seetarajpara  ttys000                   Mon Jun 22 06:42 - 06:42  (00:00)
+seetarajpara  ttys000                   Thu Jun 18 13:44 - 13:44  (00:00)
+seetarajpara  ttys000                   Tue May 12 16:38 - 16:38  (00:00)
+seetarajpara  ttys000                   Sun May 10 13:36 - 13:36  (00:00)
+seetarajpara  ttys000                   Sun May 10 13:33 - 13:33  (00:00)
+seetarajpara  ttys000                   Sun May 10 13:32 - 13:32  (00:00)
+seetarajpara  ttys000                   Sun May 10 13:25 - 13:25  (00:00)
+seetarajpara  ttys000                   Sun May 10 12:41 - 12:41  (00:00)
+seetarajpara  ttys000                   Sun May 10 12:33 - 12:33  (00:00)
+seetarajpara  ttys000                   Sun May 10 10:40 - 10:40  (00:00)
+seetarajpara  ttys000                   Fri May  8 18:28 - 18:28  (00:00)
+seetarajpara  ttys000                   Tue May  5 18:00 - 18:00  (00:00)
+seetarajpara  ttys000                   Tue May  5 12:15 - 12:15  (00:00)
+seetarajpara  ttys000                   Mon May  4 20:06 - 20:06  (00:00)
+seetarajpara  ttys000                   Mon May  4 06:59 - 06:59  (00:00)
+seetarajpara  ttys000                   Fri May  1 07:04 - 07:04  (00:00)
+seetarajpara  ttys000                   Thu Apr 30 13:11 - 13:11  (00:00)
+
+wtmp begins Thu Apr 30 13:11 
+com.tophat: line 2: syntax error near unexpected token `Seetas-MacBook-Pro:~'
+com.tophat: line 2: `(learn-env) Seetas-MacBook-Pro:~ seetarajpara$ pwd'
+(learn-env) Seetas-MacBook-Pro:commands seetarajpara$ vi commands/com.cuffcompare
+
+DATADIR=/User/seetarajpara/Desktop/CommandLineTools_Mod4_Exam/gencommand_proj4/Cufflinks/
+REFDIR=/User/seetarajpara/Desktop/CommandLineTools_Mod4_Exam/gencommand_proj4/
+WORKDIR=/User/seetarajpara/Desktop/CommandLineTools_Mod4_Exam/gencommand_proj4/Cuffcompare/
+
+mkdir -p $WORKDIR/Day8
+
+cuffcompare -r $REFDIR/athal_genes.gtf \
+        -R $DATADIR/Day8/transcripts.gtf \
+        -o $WORKDIR/Day8
+
+mkdir -p $WORKDIR/Day16
+
+cuffcompare -r $REFDIR/athal_genes.gtf \
+        -R $DATADIR/Day16/transcripts.gtf \
+        -o $WORKDIR/Day16
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+

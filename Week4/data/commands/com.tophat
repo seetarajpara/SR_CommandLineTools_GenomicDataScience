@@ -1,0 +1,10 @@
+WORKDIR=/User/seetarajpara/Desktop/CommandLineTools_Mod4_Exam/gencommand_proj4/Tophat/
+
+BWT2IDX=/User/seetarajpara/Desktop/CommandLineTools_Mod4_Exam/gencommand_proj4/athal/a
+thal
+
+mkdir -p $WORKDIR/Day8
+
+tophat2 -o $WORKDIR/Day8 -p 10 \
+        $BWT2IDX \
+        $DATADIR/Day16.fastq
